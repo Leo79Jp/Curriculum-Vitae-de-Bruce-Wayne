@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    background: #E6E6E6;
+}
+h1{
+    margin: 0px;
+    color: #005677;
+    background: #C4C4C4;
+    text-align: center;
+}
+h2{
+    color: #005677;
+    background: #C4C4C4;
+}
+dd{
+    margin-left:  78px;
+}
+audio{
+    width: 100%;
+    height: 68px;
+}
+iframe{
+    width: 100%;
+}
+.footer{
+background: #005677;
+color: white;
+text-align: center;
+font-weight: bold;
+line-height: 20px;
+}
+.ico{
+    width: 12px;
+    margin-left: 10px;
+}
